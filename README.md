@@ -1,1 +1,2 @@
-# vectorspace_data
+# vectorspace data
+## EEG motor imagery datasets
